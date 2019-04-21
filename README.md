@@ -1,7 +1,7 @@
 # jumpcutter
 Automatically edits videos. Explanation here: https://www.youtube.com/watch?v=DQ8orIurGxw
 
-## Download (here)[https://github.com/carykh/jumpcutter/releases/latest] https://github.com/carykh/jumpcutter/releases/latest
+## Download [here](https://github.com/carykh/jumpcutter/releases/latest) https://github.com/carykh/jumpcutter/releases/latest
 
 ## Some heads-up:
 
